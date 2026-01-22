@@ -1,2 +1,4 @@
 .env
 *.csv
+*.joblib
+sp500_monthly.joblib
